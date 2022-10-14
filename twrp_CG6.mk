@@ -19,7 +19,7 @@ $(call inherit-product, device/tecno/CG6/device.mk)
 PRODUCT_DEVICE := CG6
 PRODUCT_NAME := twrp_CG6
 PRODUCT_BRAND := TECNO
-PRODUCT_MODEL := TECNO CG6
+PRODUCT_MODEL := TECNO cammon 17
 PRODUCT_MANUFACTURER := tecno
 
 PRODUCT_GMS_CLIENTID_BASE := android-tecno
